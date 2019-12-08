@@ -13,7 +13,7 @@ Intel® Core™ i7-6500U CPU @ 2.50GHz × 4
 | dotnet core 3.1 | 39910 |
 
 \
-![Result](result\elixir-dotnetcore2.2-dotnetcore3.1-minimal-servers.png)
+![Result](result/elixir-dotnetcore2.2-dotnetcore3.1-minimal-servers.png)
 
 ## elixir
 

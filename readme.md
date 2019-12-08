@@ -1,3 +1,21 @@
+# Notebook
+
+Fedora 31 - 64-bit\
+12 GiB RAM DDR3 1600MHz\
+Intel® Core™ i7-6500U CPU @ 2.50GHz × 4\
+
+# Results
+
+| Project         | Requests/sec |
+|-----------------|:------------:|
+| elixir - cowboy | 15064 |
+| dotnet core 2.2 | 24661 |  
+| dotnet core 3.1 | 39910 |
+
+\
+<img src="result\elixir-dotnetcore2.2-dotnetcore3.1-minimal-servers.png" />
+
+
 ## elixir
 
 run elixir minimal server

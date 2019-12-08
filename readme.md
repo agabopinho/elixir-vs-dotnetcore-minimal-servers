@@ -8,7 +8,14 @@ Intel® Core™ i7-6500U CPU @ 2.50GHz × 4
 
 Receive a request and serialize a json from an anonymous object or structure
 
-Response payload: {type:"",text:""}
+Response payload:
+
+```json
+{
+                "response_type":"in_channel",
+                "text": "hello from BOT :)"
+            }
+```
 
 # Result
 

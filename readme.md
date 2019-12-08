@@ -4,7 +4,7 @@ Fedora 31 - 64-bit\
 12 GiB RAM DDR3 1600MHz\
 Intel® Core™ i7-6500U CPU @ 2.50GHz × 4
 
-# Results
+# Result
 
 | Project         | Requests/sec |
 |-----------------|:------------:|
@@ -13,8 +13,7 @@ Intel® Core™ i7-6500U CPU @ 2.50GHz × 4
 | dotnet core 3.1 | 39910 |
 
 \
-<img src="result\elixir-dotnetcore2.2-dotnetcore3.1-minimal-servers.png" />
-
+![Result](.\result\elixir-dotnetcore2.2-dotnetcore3.1-minimal-servers.png)
 
 ## elixir
 

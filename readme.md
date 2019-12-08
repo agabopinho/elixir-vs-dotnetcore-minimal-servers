@@ -12,7 +12,7 @@ Response payload:
 
 ```json
 {
-  "response_type":"in_channel",
+  "response_type": "in_channel",
   "text": "hello from BOT :)"
 }
 ```
